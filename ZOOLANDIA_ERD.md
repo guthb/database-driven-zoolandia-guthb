@@ -36,3 +36,8 @@ Use [draw.io](https://www.draw.io/) to make an ERD for the Zoolandia project. Ma
 ## Employees/Habitats
 
 Create a join table that allows you to assign an employees to *n* number of habitats for maintenance.
+
+## Completed ERD and Table Join ![Screenshot](/RBG-ERD-Zoolandia.png) 
+
+
+
